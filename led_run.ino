@@ -50,3 +50,7 @@ void loop() {
   digitalWrite(Led_Pin5, LOW);
   delay(Delay_Time);
 }
+
+
+// Sketch uses 1146 bytes (3%) of program storage space. Maximum is 32256 bytes.
+// Global variables use 9 bytes (0%) of dynamic memory, leaving 2039 bytes for local variables. Maximum is 2048 bytes.
